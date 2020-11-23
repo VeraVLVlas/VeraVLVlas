@@ -20,7 +20,7 @@
 | ------------- | ------------- | ----- |
 | [Сайт веб студии Нёрдс](https://github.com/VeraVLVlas/1432899-nerds-28) | Сайт дизайн-студии | HTML, CSS, JavaScript(ES5) |
 | [Визитная карточка города](https://github.com/VeraVLVlas/1432899-sedona-28) |Сайт туристического городка в штате Аризона| HTML, CSS, JavaScript(ES5) |
-| [Cat Energy](https://github.com/VeraVLVlas/1432899-cat-energy-20) | Интернет-магазин товаров для котов | HTML, LESS, Vanilla JavaScript (ES6) |
+| [Cat Energy](https://github.com/VeraVLVlas/1432899-cat-energy-20) | Интернет-магазин товаров для котов (адаптивная верстка)| HTML, LESS, Vanilla JavaScript (ES6) |
 | [Booking](https://github.com/VeraVLVlas/1432899-keksobooking-21) | Сервис для размещения объявлений о сдаче недвижимости | Vanilla JavaScript (ES6) |
 | [Видеосервис](https://github.com/VeraVLVlas/videoServiceApp-) | Небольшое приложение "Видеосервис" | HTML, LESS, Vanilla JavaScript (ES5) |
 
