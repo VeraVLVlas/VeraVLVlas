@@ -23,6 +23,7 @@
   - HTML5
   - CSS3 (SCSS, LESS), BEM  
   - Responsive and cross-browser layout  
+
   
   **Frontend Development**  
   - Vanilla JavaScript (ES5|ES6+)
@@ -33,15 +34,18 @@
   - AJAX: fetch API, Axios
   - Webpack, Gulp, Vite  
   - Templating: Pug, ERB (.html.erb), Haml (.html.haml), Handlebars, Hamlbars  
+
   
   **UI/UX & Interface Design**  
   - UX Design, User Interface Engineering (UED)  
   - Browser compatibility, SEO optimization  
   - Figma, Adobe Photoshop, Adobe Illustrator
 
+
   **Testing Tools**  
   - Jest (unit testing)  
   - Postman (API testing)  
+
   
   **Development Tools**  
   - Git, GitHub  
@@ -49,6 +53,7 @@
   - VS Code, Chrome DevTools  
   - ESLint, Prettier  
   - Vercel 
+
   
   **Additional**  
   - Mentoring and onboarding new developers  
@@ -132,6 +137,7 @@
   - HTML5
   - CSS3 (SCSS, LESS), BEM  
   - Адаптивная и кроссбраузерная верстка  
+
   
   **Frontend-разработка**  
   - Vanilla JavaScript (ES5|ES6+)
@@ -143,15 +149,18 @@
   - Webpack, Gulp, Vite    
   - Шаблонизаторы: Pug, ERB (.html.erb), Haml (.html.haml), Handlebars, Hamlbars
 
+
   **Инструменты тестирования**  
   - Postman
   - Jest
+
   
   **UI/UX и проектирование интерфейсов**  
   - UX-дизайн, проектирование интерфейсов (UED)  
   - Совместимость с браузерами  
   - SEO-оптимизация (семантика, адаптивность, производительность, доступность)  
   - Figma, Adobe Photoshop, Adobe Illustrator
+
   
   **Инструменты разработки**  
   - Git, GitHub  
@@ -159,6 +168,7 @@
   - VS Code, Chrome DevTools  
   - ESLint, Prettier   
   - Vercel 
+
   
   **Дополнительно**  
   - Наставничество и адаптация новых сотрудников
