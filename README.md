@@ -46,7 +46,6 @@
   **Development Tools**  
   - Git, GitHub  
   - npm, yarn
-  - Webpack, Gulp  
   - VS Code, Chrome DevTools  
   - ESLint, Prettier  
   - Vercel 
@@ -115,6 +114,7 @@
 ---
 
 <section id="ru">
+
   ### 🇷🇺 Русская версия
   
   # 👋 Добро пожаловать на мой GitHub-профиль!
@@ -156,7 +156,6 @@
   **Инструменты разработки**  
   - Git, GitHub  
   - npm,yarn 
-  - Webpack, Gulp  
   - VS Code, Chrome DevTools  
   - ESLint, Prettier   
   - Vercel 
