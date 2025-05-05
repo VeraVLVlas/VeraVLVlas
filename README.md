@@ -103,11 +103,13 @@
   
   | Project Name | Description | Tech Stack |
   |--------------|-------------|------------|
-  | [Nerds Studio Website](https://github.com/VeraVLVlas/1432899-nerds-28) | Website for a design studio | HTML, CSS, JavaScript (ES5) |
-  | [City Landing Page](https://github.com/VeraVLVlas/1432899-sedona-28) | Tourist town website (Arizona) | HTML, CSS, JavaScript (ES5) |
-  | [Cat Energy](https://github.com/VeraVLVlas/1432899-cat-energy-20) | Online store for pet products (responsive layout) | HTML, LESS, JavaScript (ES5) |
-  | [Booking](https://github.com/VeraVLVlas/1432899-keksobooking-21) | Rental ads service | Vanilla JavaScript (ES6) |
-  | [Video Service App](https://github.com/VeraVLVlas/videoServiceApp-) | Small video streaming app | HTML, LESS, JavaScript (ES5) |
+  | [Difference Calculator](https://github.com/VeraVLVlas/frontend-project-lvl2) | A CLI tool that finds differences between two data structures | Vanilla JavaScript (ES6), commander.js, Jest |
+  | [Brain Games](https://github.com/VeraVLVlas/frontend-project-lvl1) | A set of five interactive console games | Vanilla JavaScript (ES6) |
+  | [Cat Energy](https://github.com/VeraVLVlas/1432899-cat-energy-20) | Online store for pet products (responsive layout) | HTML, LESS, Vanilla JavaScript (ES5) |
+  | [Video Service App](https://github.com/VeraVLVlas/videoServiceApp-) | Small video streaming app | HTML, LESS, Vanilla JavaScript (ES5) |
+  | [Booking](https://github.com/VeraVLVlas/1432899-keksobooking-21) | Rental ads service | Vanilla Vanilla JavaScript (ES6) |
+  | [Nerds Studio Website](https://github.com/VeraVLVlas/1432899-nerds-28) | Website for a design studio | HTML, CSS, Vanilla JavaScript (ES5) |
+  | [City Landing Page](https://github.com/VeraVLVlas/1432899-sedona-28) | Tourist town website (Arizona) | HTML, CSS, Vanilla JavaScript (ES5) |
   
   ---
   
@@ -211,11 +213,13 @@
   
   | Название проекта        | Описание          | Технологический стек  |
   |-------------------------|-------------------|------------------------|
-  | [Сайт веб-студии Нёрдс](https://github.com/VeraVLVlas/1432899-nerds-28) | Сайт дизайн-студии | HTML, CSS, JavaScript (ES5) |
-  | [Визитная карточка города](https://github.com/VeraVLVlas/1432899-sedona-28) | Туристический сайт о городе | HTML, CSS, JavaScript (ES5) |
-  | [Cat Energy](https://github.com/VeraVLVlas/1432899-cat-energy-20) | Интернет-магазин для котов (адаптивная верстка) | HTML, LESS, JavaScript (ES5) |
+  | [Вычислитель отличий ](https://github.com/VeraVLVlas/frontend-project-lvl2) | Программа, определяющая разницу между двумя структурами данных | Vanilla JavaScript (ES6), commander.js, Jest |
+  | [Игры разума](https://github.com/VeraVLVlas/frontend-project-lvl1) | Пять консольных игр | Vanilla JavaScript (ES6) |
+  | [Cat Energy](https://github.com/VeraVLVlas/1432899-cat-energy-20) | Интернет-магазин для котов (адаптивная верстка) | HTML, LESS, Vanilla JavaScript (ES5) |
+  | [Видеосервис](https://github.com/VeraVLVlas/videoServiceApp-) | Мини-приложение для просмотра видео | HTML, LESS, Vanilla JavaScript (ES5) |
   | [Booking](https://github.com/VeraVLVlas/1432899-keksobooking-21) | Сервис аренды жилья | Vanilla JavaScript (ES6) |
-  | [Видеосервис](https://github.com/VeraVLVlas/videoServiceApp-) | Мини-приложение для просмотра видео | HTML, LESS, JavaScript (ES5) |
+  | [Сайт веб-студии Нёрдс](https://github.com/VeraVLVlas/1432899-nerds-28) | Сайт дизайн-студии | HTML, CSS, Vanilla JavaScript (ES5) |
+  | [Визитная карточка города](https://github.com/VeraVLVlas/1432899-sedona-28) | Туристический сайт о городе | HTML, CSS, Vanilla JavaScript (ES5) |
   
   ---
   
