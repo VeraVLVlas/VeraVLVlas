@@ -1,10 +1,12 @@
 <p align="right">
-  🇷🇺 <a href="#ru">Русская версия</a> | <a href="#en">English version</a> 🇬🇧
+  🇬🇧 <a href="#en">English version</a> | 🇷🇺 <a href="#ru">Русская версия</a> 
 </p>
 
 ---
+
 <section id="en">
-  ## 🇬🇧 English Version
+
+  ### 🇬🇧 English Version
   
   # 👋 Welcome to my GitHub profile!
   
@@ -18,36 +20,41 @@
   ### 🛠 Tech Stack
   
   **Markup & Styling**  
-  - HTML5, CSS3 (SCSS, LESS), BEM  
+  - HTML5
+  - CSS3 (SCSS, LESS), BEM  
   - Responsive and cross-browser layout  
-  - Figma, Adobe Photoshop, Adobe Illustrator  
   
   **Frontend Development**  
-  - Vanilla JavaScript (ES6+), jQuery  
-  - Zustand, Redux, TypeScript  
-  - AJAX  
-  - Webpack, Gulp  
+  - Vanilla JavaScript (ES5|ES6+)
+  - jQuery  
+  - React
+  - Zustand, Redux
+  - TypeScript  
+  - AJAX: fetch API, Axios
+  - Webpack, Gulp, Vite  
   - Templating: Pug, ERB (.html.erb), Haml (.html.haml), Handlebars, Hamlbars  
   
   **UI/UX & Interface Design**  
   - UX Design, User Interface Engineering (UED)  
-  - SEO optimization  
-  - Browser compatibility  
+  - Browser compatibility, SEO optimization  
+  - Figma, Adobe Photoshop, Adobe Illustrator
+
+  **Testing Tools**  
+  - Jest (unit testing)  
+  - Postman (API testing)  
   
   **Development Tools**  
   - Git, GitHub  
-  - npm, Webpack, Gulp  
+  - npm, yarn
+  - Webpack, Gulp  
   - VS Code, Chrome DevTools  
   - ESLint, Prettier  
-  - Postman  
-  - Figma Inspect  
-  - Vercel / Netlify  
-  - Basic understanding of Nginx  
+  - Vercel 
   
   **Additional**  
+  - Mentoring and onboarding new developers  
   - Experience working on the frontend of Ruby on Rails apps  
   - Beginner-level Python and databases  
-  - Mentoring and onboarding new developers  
   
   ---
   
@@ -91,22 +98,24 @@
   
   ### 💡 Status
   
-  🚀 Coding & growing | TypeScript • UI/UX • Learning Vue & Next.js
+  🚀 Coding & growing | React • UI/UX • Learning Python
   
   ---
   
   ### 📬 Contact Me
-  
+
+  ### 💌 Feel free to reach out if you have exciting ideas or are looking for a new team member!
   <p align="center">
     <a href="mailto:vlasovavery@gmail.com">
       <img height="30" src="https://github.com/VeraVLVlas/vlasovavery/blob/main/email.svg" alt="email">
     </a>
   </p>
 </section>
+
 ---
 
 <section id="ru">
-  ## 🇷🇺 Русская версия
+  ### 🇷🇺 Русская версия
   
   # 👋 Добро пожаловать на мой GitHub-профиль!
   
@@ -120,36 +129,42 @@
   ### 🛠 Мой стек технологий
   
   **Разметка и стили**  
-  - HTML5, CSS3 (SCSS, LESS), BEM  
+  - HTML5
+  - CSS3 (SCSS, LESS), BEM  
   - Адаптивная и кроссбраузерная верстка  
-  - Figma, Adobe Photoshop, Adobe Illustrator  
   
   **Frontend-разработка**  
-  - Vanilla JavaScript (ES6+), jQuery  
-  - Zustand, Redux, TypeScript  
-  - AJAX  
-  - Webpack, Gulp  
-  - Шаблонизаторы: Pug, ERB (.html.erb), Haml (.html.haml), Handlebars, Hamlbars  
+  - Vanilla JavaScript (ES5|ES6+)
+  - jQuery  
+  - React
+  - Zustand, Redux
+  - TypeScript  
+  - AJAX: fetch API, Axios
+  - Webpack, Gulp, Vite    
+  - Шаблонизаторы: Pug, ERB (.html.erb), Haml (.html.haml), Handlebars, Hamlbars
+
+  **Инструменты тестирования**  
+  - Postman
+  - Jest
   
-  **UI/UX и проектирование**  
+  **UI/UX и проектирование интерфейсов**  
   - UX-дизайн, проектирование интерфейсов (UED)  
-  - SEO-оптимизация  
-  - Поддержка браузерной совместимости  
+  - Совместимость с браузерами  
+  - SEO-оптимизация (семантика, адаптивность, производительность, доступность)  
+  - Figma, Adobe Photoshop, Adobe Illustrator
   
   **Инструменты разработки**  
   - Git, GitHub  
-  - npm, Webpack, Gulp  
+  - npm,yarn 
+  - Webpack, Gulp  
   - VS Code, Chrome DevTools  
-  - ESLint, Prettier  
-  - Postman  
-  - Figma Inspect  
-  - Vercel / Netlify  
-  - Базовые знания Nginx  
+  - ESLint, Prettier   
+  - Vercel 
   
   **Дополнительно**  
+  - Наставничество и адаптация новых сотрудников
   - Опыт работы с frontend-частью Ruby on Rails  
-  - Начальный уровень Python и баз данных  
-  - Наставничество и помощь в адаптации новых сотрудников  
+  - Начальный уровень Python и баз данных    
   
   ---
   
@@ -175,7 +190,7 @@
   
   ### 💡 Статус
   
-  🚀 Пишу код и развиваюсь | TypeScript • UI/UX • Учусь Vue & Next.js
+  🚀 Пишу код и развиваюсь | React • UI/UX • Изучаю Python
   
   ---
   
@@ -186,5 +201,9 @@
     <a href="mailto:vlasovavery@gmail.com">
       <img height="30" src="https://github.com/VeraVLVlas/vlasovavery/blob/main/email.svg" alt="email">
     </a>
+  </p>
+
+  <p align="right">
+    ⬆️ <a href="#en">Back to English version</a> ⬆️
   </p>
 </section>
