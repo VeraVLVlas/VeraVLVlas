@@ -3,8 +3,8 @@
 </p>
 
 ---
-<section id="#en">
-  ## 🇬🇧 English Version</p>
+<section id="en">
+  ## 🇬🇧 English Version
   
   # 👋 Welcome to my GitHub profile!
   
@@ -105,7 +105,7 @@
 </section>
 ---
 
-<section id="#ru">
+<section id="ru">
   ## 🇷🇺 Русская версия
   
   # 👋 Добро пожаловать на мой GitHub-профиль!
