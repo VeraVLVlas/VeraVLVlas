@@ -9,11 +9,10 @@
   ### 🇬🇧 English Version
   
   # 👋 Welcome to my GitHub profile!
-  
-  I'm a frontend developer passionate about creating responsive, user-friendly, and modern interfaces.  
-  Every day I improve my skills and explore new technologies.
-  
-  Feel free to explore my projects, tech stack, and learning goals.
+  I'm an experienced frontend developer focused on building adaptive, high-performance, and user-friendly interfaces.
+  With years of hands-on practice, I bring deep knowledge of modern web technologies and a strong eye for detail.
+  I’m constantly learning, refining my skills, and approaching development with a user-first mindset.
+  Here you’ll find my projects, current tech stack, and areas I’m actively exploring.
   
   ---
   
@@ -21,7 +20,9 @@
   
   **Markup & Styling**  
   - HTML5
-  - CSS3 (SCSS, LESS), BEM  
+  - CSS3 (SCSS, LESS)
+  - BEM  
+  - Bootstrap 5  
   - Responsive and cross-browser layout  
 
   
@@ -33,7 +34,15 @@
   - TypeScript  
   - AJAX: fetch API, Axios
   - Webpack, Gulp, Vite  
-  - Templating: Pug, ERB (.html.erb), Haml (.html.haml), Handlebars, Hamlbars  
+  - Templating: Pug, ERB (.html.erb), Haml (.html.haml), Handlebars, Hamlbars
+
+
+  **Libraries & Tools**  
+  - Axios
+  - Yup
+  - i18next 
+  - Onchange
+  - Lodash
 
   
   **UI/UX & Interface Design**  
@@ -52,7 +61,9 @@
   - npm, yarn
   - VS Code, Chrome DevTools  
   - ESLint, Prettier  
-  - Vercel 
+  - Vercel
+  - GitHub Actions
+  - CodeClimate  
 
   
   **Additional**  
@@ -123,11 +134,10 @@
   ### 🇷🇺 Русская версия
   
   # 👋 Добро пожаловать на мой GitHub-профиль!
-  
-  Я — frontend-разработчик, увлечённый созданием адаптивных, удобных и современных пользовательских интерфейсов.  
-  Каждый день я совершенствую свои навыки и осваиваю новые технологии.
-  
-  Вы можете ознакомиться с моими проектами, используемым стеком и планами развития.
+  Я — опытный frontend-разработчик, специализирующийся на создании адаптивных, быстрых и удобных пользовательских интерфейсов.
+  За плечами — годы практики, множество проектов и глубокое понимание современных веб-технологий.
+  Я постоянно прокачиваю навыки, осваиваю новые инструменты и подхожу к разработке с вниманием к деталям и пользовательскому опыту.
+  Здесь вы найдёте мои проекты, используемый стек и направления, в которых я продолжаю развиваться.
   
   ---
   
@@ -135,7 +145,9 @@
   
   **Разметка и стили**  
   - HTML5
-  - CSS3 (SCSS, LESS), BEM  
+  - CSS3 (SCSS, LESS)
+  - BEM  
+  - Bootstrap 5  
   - Адаптивная и кроссбраузерная верстка  
 
   
@@ -148,6 +160,14 @@
   - AJAX: fetch API, Axios
   - Webpack, Gulp, Vite    
   - Шаблонизаторы: Pug, ERB (.html.erb), Haml (.html.haml), Handlebars, Hamlbars
+
+
+  **Библиотеки и инструменты**  
+  - Axios 
+  - Yup 
+  - i18next 
+  - Onchange
+  - Lodash
 
 
   **Инструменты тестирования**  
@@ -164,10 +184,12 @@
   
   **Инструменты разработки**  
   - Git, GitHub  
-  - npm,yarn 
+  - npm, yarn 
   - VS Code, Chrome DevTools  
   - ESLint, Prettier   
-  - Vercel 
+  - Vercel
+  - GitHub Actions
+  - CodeClimate  
 
   
   **Дополнительно**  
